@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}What is Quantum Machine Learning?}{2}{section.1}%
+\contentsline {section}{\numberline {2}Background: Classical Machine Learning}{2}{section.2}%
+\contentsline {section}{\numberline {3}Parameterized Quantum Circuits}{4}{section.3}%
+\contentsline {section}{\numberline {4}Data Encoding}{6}{section.4}%
+\contentsline {section}{\numberline {5}Quantum Model}{8}{section.5}%
+\contentsline {section}{\numberline {6}Optimization and Prediction}{10}{section.6}%
+\contentsline {section}{\numberline {7}Simulation}{11}{section.7}%
+\contentsline {section}{\numberline {8}Challenges and Future Work}{13}{section.8}%

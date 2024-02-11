@@ -1,0 +1,84 @@
+\begin{thebibliography}{10}
+
+\bibitem{BuildingAVQC}
+Amira Abbas.
+\newblock Build a quantum classifier.
+\newblock IBM Qiskit Summer School, 2021.
+
+\bibitem{ucberkeley}
+Data~Science at~UC~Berkeley.
+\newblock What is machine learning (ml)?
+\newblock datascience@berkeley, the online Master of Information and Data Science from UC Berkeley, 2022.
+
+\bibitem{Benedetti_2019}
+Marcello Benedetti, Erika Lloyd, Stefan Sack, and Mattia Fiorentini.
+\newblock Parameterized quantum circuits as machine learning models.
+\newblock {\em Quantum Science and Technology}, 4(4):043001, November 2019.
+
+\bibitem{brennen2003observable}
+Gavin~K. Brennen.
+\newblock An observable measure of entanglement for pure states of multi-qubit systems, 2003.
+
+\bibitem{crooks2019gradients}
+Gavin~E. Crooks.
+\newblock Gradients of parameterized quantum gates using the parameter-shift rule and gate decomposition, 2019.
+
+\bibitem{qiskit_sim}
+IBM~Qiskit Developers.
+\newblock Training a quantum model on a real dataset.
+\newblock Qiskit Ecosystem, 2023.
+
+\bibitem{ibmansatz}
+Qiskit Developers.
+\newblock Ansatze and variational forms.
+\newblock IBM Quantum Learning, 2023.
+
+\bibitem{pennylaneQE}
+Xanadu Developers.
+\newblock Quantum embeddings, 2023.
+
+\bibitem{garcía2022systematic}
+David~Peral García, Juan Cruz-Benito, and Francisco~José García-Peñalvo.
+\newblock Systematic literature review: Quantum machine learning and its applications, 2022.
+
+\bibitem{Havl_ek_2019}
+Vojtěch Havlíček, Antonio~D. Córcoles, Kristan Temme, Aram~W. Harrow, Abhinav Kandala, Jerry~M. Chow, and Jay~M. Gambetta.
+\newblock Supervised learning with quantum-enhanced feature spaces.
+\newblock {\em Nature}, 567(7747):209–212, March 2019.
+
+\bibitem{hubregtsen2020evaluation}
+Thomas Hubregtsen, Josef Pichlmeier, Patrick Stecher, and Koen Bertels.
+\newblock Evaluation of parameterized quantum circuits: on the relation between classification accuracy, expressibility and entangling capability, 2020.
+
+\bibitem{IBM}
+IBM.
+\newblock What is machine learning?
+
+\bibitem{qiskitPQC}
+qiskits developers.
+\newblock Parameterized quantum circuits, 2023.
+
+\bibitem{pennylaneBLOG}
+Isdor Schoch~(Xanadu Resident).
+\newblock How to embed data into a quantum state.
+\newblock Pennylane Blog, 2022.
+
+\bibitem{SCHULD_2019_BOOK}
+Maria~Petruccione Schuld.
+\newblock {\em Supervised learning with Quantum Computers}.
+\newblock Springer, 2019.
+
+\bibitem{sklearndata}
+scikit-learn developers.
+\newblock 7.1 toy datasets, 2007-2023.
+
+\bibitem{sklearnsvm}
+scikit-learn developers.
+\newblock Plot different svm classifiers in the iris dataset, 2007-2023.
+
+\bibitem{Sim_2019}
+Sukin Sim, Peter~D. Johnson, and Alán Aspuru‐Guzik.
+\newblock Expressibility and entangling capability of parameterized quantum circuits for hybrid quantum‐classical algorithms.
+\newblock {\em Advanced Quantum Technologies}, 2(12), October 2019.
+
+\end{thebibliography}
